@@ -1,0 +1,79 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+
+.header {
+  font-size: 50px;
+  /* margin-top: -10rem; */
+}
+
+/* .wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 55vh;
+} */
+
+body {
+  background-color: #272627;
+  font-family: "Lobster";
+  text-align: center;
+  color: aliceblue;
+}
+
+a {
+  font-size: 1.5rem;
+  text-decoration: none;
+  color: aliceblue;
+}
+
+.anchor {
+  position: absolute;
+  margin-left: 89rem;
+  margin-top: 2rem;
+}
+
+.anchor2 {
+  position: absolute;
+  margin-left: 88rem;
+  margin-top: 5rem;
+  width: 5rem;
+}
+
+.movieN {
+  text-align: left;
+  margin-left: 3rem;
+}
+
+.block {
+  float: left;
+  font-size: x-large;
+}
+
+.poster {
+  /* float: left; */
+  margin-left: 3rem;
+  width: 30rem;
+  height: auto;
+  max-height: 30rem;
+}
+
+.box {
+  width: 45rem;
+  height: 15rem;
+  font-size: 1.5rem;
+  padding: 15px;
+  border: none;
+  border-radius: 10px;
+  resize: none;
+}
+
+.submit {
+  width: 45rem;
+  font-size: 1.5rem;
+  padding: 15px;
+  border: none;
+  border-radius: 10px;
+  margin-top: 1rem;
+  background: #d4b743;
+  color: #292826;
+  outline: 0;
+}
